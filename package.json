@@ -1,7 +1,6 @@
 {
   "name": "automacaocypress",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "cypress:run": "npx cypress run",
@@ -12,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^13.14.2"
-  }
+  },
+  "description": ""
 }
