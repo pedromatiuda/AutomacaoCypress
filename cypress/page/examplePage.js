@@ -1,5 +1,3 @@
-class examplePage {
-
-}
+class examplePage {}
 
 export default new examplePage();
